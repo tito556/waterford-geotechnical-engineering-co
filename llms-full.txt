@@ -1,0 +1,41 @@
+# Geotechnical Engineering — Waterford
+
+> Geotechnical engineering services in Waterford, Ireland.
+
+## Services
+- [Atterberg Limits](https://waterford.geotechnical-engineering.co/atterberg-limits/)
+- [Cbr Road](https://waterford.geotechnical-engineering.co/cbr-road/)
+- [Excavations](https://waterford.geotechnical-engineering.co/excavations/)
+- [Footings](https://waterford.geotechnical-engineering.co/footings/)
+- [Foundations](https://waterford.geotechnical-engineering.co/foundations/)
+- [Geophysics](https://waterford.geotechnical-engineering.co/geophysics/)
+- [Grain Size](https://waterford.geotechnical-engineering.co/grain-size/)
+- [Ground Improvement](https://waterford.geotechnical-engineering.co/ground-improvement/)
+- [Grouting](https://waterford.geotechnical-engineering.co/grouting/)
+- [In Situ Permeability](https://waterford.geotechnical-engineering.co/in-situ-permeability/)
+- [Investigation](https://waterford.geotechnical-engineering.co/investigation/)
+- [Lab In Situ](https://waterford.geotechnical-engineering.co/lab-in-situ/)
+- [Laboratory](https://waterford.geotechnical-engineering.co/laboratory/)
+- [Liquefaction](https://waterford.geotechnical-engineering.co/liquefaction/)
+- [Mat Foundations](https://waterford.geotechnical-engineering.co/mat-foundations/)
+- [Resistivity](https://waterford.geotechnical-engineering.co/resistivity/)
+- [Retaining Walls](https://waterford.geotechnical-engineering.co/retaining-walls/)
+- [Rigid Pavement](https://waterford.geotechnical-engineering.co/rigid-pavement/)
+- [Road Geotechnics](https://waterford.geotechnical-engineering.co/road-geotechnics/)
+- [Sand Cone Density](https://waterford.geotechnical-engineering.co/sand-cone-density/)
+- [Seismic](https://waterford.geotechnical-engineering.co/seismic/)
+- [Seismic Isolation](https://waterford.geotechnical-engineering.co/seismic-isolation/)
+- [Slope Stability](https://waterford.geotechnical-engineering.co/slope-stability/)
+- [Slopes](https://waterford.geotechnical-engineering.co/slopes/)
+- [Soft Ground Tunnels](https://waterford.geotechnical-engineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://waterford.geotechnical-engineering.co/spt-drilling/)
+- [Stone Columns](https://waterford.geotechnical-engineering.co/stone-columns/)
+- [Test Pits](https://waterford.geotechnical-engineering.co/test-pits/)
+- [Vibrocompaction](https://waterford.geotechnical-engineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://waterford.geotechnical-engineering.co/
+
+## About
+This site provides geotechnical engineering services in Waterford, Ireland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
